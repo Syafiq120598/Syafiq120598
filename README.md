@@ -1,6 +1,5 @@
-## <center><ins>Accounting Contract Template</ins></center>
-
-
+# <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>Accounting Contract Template</ins></center>
+<br>
 &nbsp;&nbsp;This accounting contract template is made between 
 <br>&nbsp;&nbsp; ___________________________. (“Client”) and 
 <br>&nbsp;&nbsp; ____________________________. (“Company”).
@@ -21,23 +20,23 @@
 
 8. If any portion of this agreement is found to be void or unenforceable for any reason, then that section will be removed without affecting the balance of this contract. A valid section will be substituted in its place. All remaining sections will remain intact and binding upon both parties according to their original intent when they were first combined into one document. __________________________________________________________________
 
-&nbsp;&nbsp;**Terms And Services Provided:**
+&nbsp;&nbsp;&nbsp;&nbsp;**Terms And Services Provided:**
 
-&nbsp;&nbsp;The client agrees to pay Company for services as outlined in the payment schedule.
+&nbsp;&nbsp;&nbsp;&nbsp;The client agrees to pay Company for services as outlined in the payment schedule.
 
 1. Company will provide bookkeeping, accounting, and tax services every month, with work beginning on __________. and continuing throughout the year of _________ <br>
 
-&nbsp;&nbsp;Scope Of Work:
+&nbsp;&nbsp;&nbsp;&nbsp;Scope Of Work:
 
 2. Client will provide books from prior years, current annual financial statements including all schedules, corporate minutes from recent meetings, company resolutions not currently included in corporate minute book, sales receipts dated prior to December 31st of the previous year that have been received by December 31st of this year but not yet entered into general ledger. _________________________________________________________________.
 
 3. Company will provide a financial report by January 30th each year containing balance sheet and statement of income, and a detailed explanation of services rendered. _________________________________________________________________.
 
-&nbsp;&nbsp;**Payment Schedule:**
+&nbsp;&nbsp;&nbsp;&nbsp;**Payment Schedule:**
 
-&nbsp;&nbsp;The total fees for the entire year are $__________. Client agrees to pay monthly in advance. No payment will be due until after Company provides services for that month which will include an invoice number to be used as reference on next months' invoice. _________________________________________________________________.
+&nbsp;&nbsp;&nbsp;&nbsp;The total fees for the entire year are $__________. Client agrees to pay monthly in advance. No payment will be due until after Company &nbsp;&nbsp;&nbsp;&nbsp;provides services for that month which will include an invoice number to be used as reference on next months' invoice. &nbsp;&nbsp;&nbsp;&nbsp;_________________________________________________________________.
 
-Client agrees to receive electronic invoices via email sent from Company's email system provided to Client upon inception of this agreement. All invoices shall include the name of the person who rendered services, date range for which service was rendered, description of work done, rate charged ($ per hour), rates applied within said dates then subtracted by charge rate ($ per hour), and grand total. _________________________________________________________________.
+&nbsp;&nbsp;&nbsp;&nbsp;Client agrees to receive electronic invoices via email sent from Company's email system provided to Client upon inception of this agreement. &nbsp;&nbsp;&nbsp;&nbsp;All invoices shall include the name of the person who rendered services, date range for which service was rendered, description of work &nbsp;&nbsp;&nbsp;&nbsp;done, rate charged (**$** per hour), rates applied within said dates then subtracted by charge rate (**$** per hour), and grand total. &nbsp;&nbsp;&nbsp;&nbsp;_________________________________________________________________.
 
 4. Services will be provided at a rate of $____________. per hour. The company reserves the right to bill the Client for any additional time beyond the original scope of work agreed to at the same hourly rate.
 5. If the Client requests an extension, both parties will agree to new terms in writing before work resumes.
