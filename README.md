@@ -1,4 +1,4 @@
-# <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>Accounting Contract Template</ins></center>
+# <h1 align="center"><ins>Accounting Contract Template</ins></h1>
 <br>
 &nbsp;&nbsp;This accounting contract template is made between 
 <br>&nbsp;&nbsp; ___________________________. (“Client”) and 
